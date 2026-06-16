@@ -1,0 +1,14 @@
+{
+  "tooltip.notenoughtooltips.shulker.empty": "(empty)",
+  "tooltip.notenoughtooltips.shulker.item": "%s x%s",
+  "tooltip.notenoughtooltips.shulker.more": "+%s more items",
+  "tooltip.notenoughtooltips.durability": "Durability: %s/%s (%s%%)",
+  "tooltip.notenoughtooltips.damage": "DMG: %s",
+  "tooltip.notenoughtooltips.damage.sharpness": "DMG: %s (Sharpness +%s)",
+  "tooltip.notenoughtooltips.defense": "Defense: %s points (%s icons)",
+  "tooltip.notenoughtooltips.toughness": "Toughness: %s",
+  "tooltip.notenoughtooltips.knockback_res": "Knockback Res: %s%%",
+  "tooltip.notenoughtooltips.effect": "Effect: %s %s (%s)",
+  "tooltip.notenoughtooltips.duration.instant": "Instant",
+  "tooltip.notenoughtooltips.duration.infinite": "Infinite"
+}

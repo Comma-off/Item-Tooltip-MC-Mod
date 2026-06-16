@@ -1,0 +1,14 @@
+{
+  "tooltip.notenoughtooltips.shulker.empty": "(пусто)",
+  "tooltip.notenoughtooltips.shulker.item": "%s x%s",
+  "tooltip.notenoughtooltips.shulker.more": "+%s еще предметов",
+  "tooltip.notenoughtooltips.durability": "Прочность: %s/%s (%s%%)",
+  "tooltip.notenoughtooltips.damage": "Урон: %s",
+  "tooltip.notenoughtooltips.damage.sharpness": "Урон: %s (Острота +%s)",
+  "tooltip.notenoughtooltips.defense": "Защита: %s очк. (%s иконок)",
+  "tooltip.notenoughtooltips.toughness": "Твердость: %s",
+  "tooltip.notenoughtooltips.knockback_res": "Сопр. отбрасыванию: %s%%",
+  "tooltip.notenoughtooltips.effect": "Эффект: %s %s (%s)",
+  "tooltip.notenoughtooltips.duration.instant": "Мгновенно",
+  "tooltip.notenoughtooltips.duration.infinite": "Бесконечно"
+}
